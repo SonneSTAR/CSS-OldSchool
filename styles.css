@@ -1,0 +1,110 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+header{
+    text-align: center;
+    font-size: 24px;
+    background:  #000000;
+    padding: 1px;
+    color:  #ffffff;
+    
+}
+.principal-image{
+    background-image: url("Assets/img/bg-header.jpg");
+    width: 100%;
+    height: 727px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parrafos{
+    display: inline-block;
+    height:300px ;
+    width: 400px ;
+    float: inline-start;
+    margin-top: 130px;
+    margin-left: 130px;
+    color:  #ffffff;
+    
+
+}
+
+.image-box{
+    display: inline-block;
+    background-image: url("Assets/img/iguana-1.jpg");
+    width: 550px;
+    height: 400px;
+    float: inline-end;
+    margin-right: 130px;
+    margin-top: 100px;
+
+}
+.section-box{
+    width: 100%;
+    height: 600px;
+    background-color: #000000;
+}
+
+.caracteristicas{
+    background-color: #1e1a13;
+    text-align: center;
+    font-size: 30px;
+    height: 400px;
+    color:  #ffffff;
+    
+}
+.caracteristicas h2{
+    margin:0;
+    padding-top: 50px;
+  
+}
+
+.icon-eyes{
+    display: inline-block;
+    float: inline-start;
+    margin-top: 80px;
+    margin-left: 250px;
+}
+
+.icon-pacific{
+    display: inline-block;
+    float: unset;
+    margin-top: 80px;
+    margin-left: 40px;
+
+}
+
+.icon-brush{
+    display: inline-block;
+    float: inline-end;
+    margin-top: 80px;
+    margin-right: 160px;
+}
+
+
+.image-galery{
+    background-color:  #000000;
+}
+.image-galery div img {
+    width: 300px;
+
+}
+
+.image-galery div {
+    display: inline-block;
+    margin-top: 100px;
+    padding-left: 150px;
+    padding-bottom: 100px;
+    
+}
+.p-footer{
+    height: 80px;
+    background-color: #1E1A13;
+}
+.p-footer p {
+    margin: 0;
+    color:  #ffffff;
+    text-align: center;
+    padding-top: 30px;
+}
